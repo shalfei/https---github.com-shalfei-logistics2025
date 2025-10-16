@@ -1,0 +1,8 @@
+ijson==3.2.3
+tqdm
+psutil
+python_tsp==0.4.2
+pyarrow==11.0.0
+numpy==1.26.4
+pandas==2.1.1
+ortools
